@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p style="fontsize: 5px">I am Huy, 22 years old, a final-year computer science student from HCMUT. I am working towards being a software engineer.</p>
+<p style="fontsize: 6px">I am Huy, 22 years old, a final-year computer science student from HCMUT. I am working towards being a software engineer.</p>
 <img align="right" alt="GIF" src="https://media4.giphy.com/media/LaVp0AyqR5bGsC5Cbm/200w.gif?cid=6c09b952w24bjufvqeclteezkbvwapwd39cbdkmllna6q2be&ep=v1_gifs_search&rid=200w.gif&ct=g" />
 
 <h4>Technologies & Tools</h4>
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h4>Connect with me</h4>
+<h4>How to reach me</h4>
 <p>
   <a href="https://www.linkedin.com/in/huy-bui47/">
     <img src="https://img.shields.io/badge/LinkedIn-525252?style=flat-square&logo=linkedin&logoColor=white" />
