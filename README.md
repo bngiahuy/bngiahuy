@@ -30,26 +30,29 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Lang-PHP-8e7cc3?style=flat&logo=php&logoColor=white" />
   </a>
   <a href="https://cplusplus.com/">
-    <img src="https://img.shields.io/badge/Lang-C++-2bbc8a.svg?style=flat&logo=c%2B%2B" />
+    <img src="https://img.shields.io/badge/Lang-C++-00599C.svg?style=flat&logo=c%2B%2B" />
   </a>
   <a href="https://react.dev/">
-    <img src="https://img.shields.io/badge/Frame-React.js-2bbc8a?style=flat&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Library-React-61DAFB?style=flat&logo=react&logoColor=white" />
   </a>
   
   <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Tools-Git-2bbc8a?style=flat&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tools-Git-F05032?style=flat&logo=git&logoColor=white" />
   </a>
   <a href="https://www.docker.com/">
-    <img src="https://img.shields.io/badge/Tools-Docker-2bbc8a?style=flat&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tools-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   </a>
   <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/Database-PostgreSQL-2bbc8a?style=flat&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   </a>
   <a href="https://learn.microsoft.com/en-us/windows/wsl/">
-    <img src="https://img.shields.io/badge/OS-WSL2-2bbc8a?style=flat&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=flat&logo=linux&logoColor=white" />
   </a>
   <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/Editor-VSCode-2bbc8a?style=flat&logo=visualstudiocode&logoColor=white" />
+    <img src="https://img.shields.io/badge/Editor-VSCode-007BFC?style=flat&logo=visualstudiocode&logoColor=white" />
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/">
+    <img src="https://img.shields.io/badge/Frame-.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
   </a>
 </p>
 
