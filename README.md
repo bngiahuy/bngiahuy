@@ -54,6 +54,9 @@ Here are some ideas to get you started:
   <a href="https://dotnet.microsoft.com/en-us/">
     <img src="https://img.shields.io/badge/Frame-.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
   </a>
+  <a href="https://dotnet.microsoft.com/en-us/">
+    <img src="https://img.shields.io/badge/Tech-NodeJS-5FA04E?style=flat&logo=nodedotjs&logoColor=white" />
+  </a>
 </p>
 
 <p>
