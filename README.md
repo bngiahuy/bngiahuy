@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 <h4>Technologies & Tools</h4>
 <p>
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Lang-Python-2bbc8a?style=flat&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Lang-Python-3776AB?style=flat&logo=python&logoColor=white" />
   </a>
   <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">
     <img src="https://img.shields.io/badge/Lang-JavaScript-2bbc8a?style=flat&logo=javascript&logoColor=white" />
   </a>
   
   <a href="https://www.php.net/">
-    <img src="https://img.shields.io/badge/Lang-PHP-2bbc8a?style=flat&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/Lang-PHP-8e7cc3?style=flat&logo=php&logoColor=white" />
   </a>
   <a href="https://cplusplus.com/">
     <img src="https://img.shields.io/badge/Lang-C++-2bbc8a.svg?style=flat&logo=c%2B%2B" />
