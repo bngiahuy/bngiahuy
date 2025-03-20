@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p style="fontsize: 6px">I am Huy - 2002, and I am a final-year computer science student from HCMUT. I am working towards being a software engineer.</p>
+<p style="fontsize: 6px">I am Huy - 2002, and I am a graduated Computer Science & Engineering student from Bach Khoa University - HCMUT, Ho Chi Minh City, Vietnam. I am working towards being a software engineer and AI Engineer.</p>
 <img align="right" alt="GIF" src="https://media4.giphy.com/media/LaVp0AyqR5bGsC5Cbm/200w.gif?cid=6c09b952w24bjufvqeclteezkbvwapwd39cbdkmllna6q2be&ep=v1_gifs_search&rid=200w.gif&ct=g" />
 
 <h4>Technologies & Tools</h4>
