@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://github.com/bngiahuy?tab=repositories">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bngiahuy&rank_icon=github&show_icons=true&count_private=true&title_color=2bbc8a&icon_color=2bbc8a&hide_border=true&hide_title=true" alt="Huy Bui's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bngiahuy&rank_icon=github&show_icons=true&alt=%22Huy%20Bui%27s%20GitHub%20Stats%22" />
   </a>
 </p>
 
